@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>glfw.redist</id>
+    <version>3.0.4.3</version>
+    <title>GLFW Redist</title>
+    <authors>Marcus Geelnard,  Camilla Berglund</authors>
+    <owners>Marcus Geelnard,  Camilla Berglund</owners>
+    <licenseUrl>http://www.glfw.org/license.html</licenseUrl>
+    <projectUrl>http://www.glfw.org/</projectUrl>
+    <iconUrl>http://wiki.glfw.org/wiki/images/logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Redistributable components for package 'glfw'. This package should only be installed as a dependency. 
+(This is not the package you are looking for).</description>
+    <summary>Redistributable components for for package 'glfw'</summary>
+    <releaseNotes>Removed old dependency</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>CoApp native opengl glfw nativepackage</tags>
+  </metadata>
+</package>
